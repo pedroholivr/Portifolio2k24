@@ -1,0 +1,6 @@
+@media only screen and (max-width: 1000px){
+    body{
+        background-color: red
+    }
+    h2{text-align: center;}
+}
